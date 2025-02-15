@@ -2,7 +2,7 @@
 [_Klassy_](https://github.com/paulmcauley/klassy) (formerly _ClassiK_/_ClassikStyles_) is a highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop. Initially taking inspiration from the iconography of KDE 1, the _Klassy_ defaults are an attempt to create a usable and appealing look for the modern Plasma desktop.
 
 ## Klassy Presets
-<ins> Blurred Garden Ornaments:
+<ins> Blurry Garden Ornaments:
 - Garden Ornaments, with blurred preferences enabled.
 - Adjusted for Klassy + Plasma 6.3 forks
 
